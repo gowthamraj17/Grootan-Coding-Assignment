@@ -1,6 +1,6 @@
 # Grootan-Coding-Assignment
 
-### Requirement Understanding
+### * Requirement Understanding
 
 1. Create Web Application with Import CSV option when upload button is clicked
     
@@ -50,4 +50,4 @@
 
         ii. Calculate the time from insert of the first row to last row of insertion.
         
-### Output
+### * Output
