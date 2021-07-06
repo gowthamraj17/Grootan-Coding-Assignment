@@ -49,3 +49,5 @@
         i. Display the time take to complete the upload activities
 
         ii. Calculate the time from insert of the first row to last row of insertion.
+        
+### Output
