@@ -51,3 +51,7 @@
         ii. Calculate the time from insert of the first row to last row of insertion.
         
 ### Output
+
+https://user-images.githubusercontent.com/61132900/124637256-2107dc00-dea7-11eb-9fc6-d1ca67363c31.mp4
+
+
